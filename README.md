@@ -8,7 +8,8 @@ A production-ready **FastAPI-based wind forecasting system** that uses 20 years 
 
 - `main.py` – FastAPI app to serve wind power predictions
 - `wind_power_xgb_model.pkl` – trained XGBoost model (based on 2.1.1)
-- `requirements.txt` – Python dependencies
+- `apirequirements.txt` – Python dependencies
+- `Powermodel.ipynb` - Model Training and Evaluation
 
 
 ---
