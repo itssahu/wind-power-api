@@ -1,6 +1,7 @@
 #  Wind Power Forecasting API (Norway)
 
 A production-ready **FastAPI-based wind forecasting system** that uses 20 years of ERA5-based wind farm data and an XGBoost model to predict real-time wind power at any given wind farm location in Norway.
+![Norway_wind_farms](https://github.com/user-attachments/assets/95171589-e6da-4c4f-bb81-14f7ec7dd6ff)
 
 ---
 
