@@ -22,7 +22,8 @@ A production-ready **FastAPI-based wind forecasting system** that uses 20 years 
 ### Data
 - Used **ERA5** reanalysis wind speed data (u and v at 100m height, 0.25°*0.25° resolution)
 - Collected 20 years of data (2003–2022) for all wind farms/Load centers in Norway
-- Mapped daily wind speed to power output using a **2.1 MW rated Suzlon turbine power curve**(Cut-in speed=3.5 m/s
+- Mapped daily wind speed to power output using a **2.1 MW rated Suzlon turbine power curve**
+  (Cut-in speed=3.5 m/s
 Rated speed=12 m/s
 Cut-out speed=25 m/s)
 ![image](https://github.com/user-attachments/assets/d527e187-9c14-4890-90a0-b9f74e494948)
