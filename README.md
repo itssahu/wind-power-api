@@ -93,7 +93,7 @@ You’ll see Swagger UI and can POST to `/forecast` with:
 ## 📌 Notes
 
 - Grid resolution is 0.25°*0.25°→ inputs are snapped to nearest valid lat/lon
-- Works only for Norway region (unless retrained)
+- ### Works only for Norway region (unless retrained)
 - If wind speed ≥ 25 m/s → max output = 2.1 MW
 - Model is trained assuming a single Suzlon turbine/site of 2.1 MW rating, therefore if installed capacity is more than that , simply multiply number of turbines needed to reach the capacity. For e.g. if at a site 10 MW capacity is installed , multiply the power output by (10/2.1)=4.76 , to get net power output at the site.   
 
