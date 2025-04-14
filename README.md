@@ -54,7 +54,7 @@ cd wind-power-api
 ```bash
 conda create -n wind python=3.10 -y
 conda activate wind
-pip install -r requirements.txt
+pip install -r apirequirements.txt
 ```
 
 ### 3. Run the API
